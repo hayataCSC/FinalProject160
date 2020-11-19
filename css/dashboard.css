@@ -1,0 +1,31 @@
+#country {
+    margin-left: 280px;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.xLabel {
+    font-size: 17px;
+}
+
+#tooltip {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: antiquewhite;
+}
+
+.hidden {
+    display: none;
+}
+
+.line {
+    fill: none;
+    stroke: black;
+}
+
+.off {
+    opacity: 0.1;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>dashboard</title>
+        <link rel="stylesheet" href="css/dashboard.css">
+    </head>
+    <body>
+        <button id="us">US</button>
+        <button id="jp">Japan</button>
+        <button id="eu">EU</button>
+        <h2 id="country">Select a country or region to display</h2>
+        <svg id="firstGraph"></svg>
+        <svg id="secondGraph"></svg>
+        <div id="tooltip" class="hidden">
+            <div id="year"></div>
+            <div id="xValue"></div>
+            <div id="yValue"></div>
+        </div>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="js/dashboard.js"></script>
+    </body>
+</html>

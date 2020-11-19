@@ -1,0 +1,13 @@
+﻿Country,EconomicVariable,Source,Link,
+U.S.,M2 Money Stock,FRED,https://fred.stlouisfed.org/series/M2,Check
+U.S.,Inflation Rates,FRED,https://fred.stlouisfed.org/series/FPCPITOTLZGUSA,Check
+U.S.,Workers' Share of GDP,FRED,https://fred.stlouisfed.org/series/W270RE1A156NBEA,Check
+U.S.,Unemployment Rate,FRED,https://fred.stlouisfed.org/series/UNRATE,Check
+U.S.,Labor Force Participation Rate,FRED,https://fred.stlouisfed.org/series/CIVPART,Check
+U.S.,Consumper Price Index,FRED,https://fred.stlouisfed.org/series/CPIAUCSL,Check
+Japan,Inflation Rates,Statista,https://www.statista.com/statistics/270095/inflation-rate-in-japan/,
+Japan,Unemployment Rate,FRED,https://fred.stlouisfed.org/tags/series?t=japan%3Bunemployment,
+Japan,Workers' Share of GDP,FRED,https://fred.stlouisfed.org/series/LABSHPJPA156NRUG,
+Japan,Labor Force Participation Rate,The World Bank,https://data.worldbank.org/indicator/SL.TLF.CACT.NE.ZS?locations=JP,
+EU,Inflation Rates,FRED,https://fred.stlouisfed.org/series/FPCPITOTLZGEUU,
+EU,Unemployment Rate,FRED,https://fred.stlouisfed.org/tags/series?t=eu%3Bunemployment,
